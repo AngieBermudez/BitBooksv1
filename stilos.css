@@ -1,0 +1,21 @@
+.bg-orange{
+    background-color: rgb(219, 187, 42);
+}
+.height-carousel{
+    max-height: 400px;
+    min-height: 400px;    
+}
+
+.icon-redes{
+    font-size: 50px;
+    margin-right: 3%;    
+}
+.fa-facebook-square{
+    color: rgb(32, 81, 172);
+}
+.fa-instagram-square{
+    color: rgba(175, 44, 125, 0.863);
+}
+.fa-linkedin{
+    color: rgb(65, 65, 136);
+}
